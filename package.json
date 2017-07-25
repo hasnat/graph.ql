@@ -15,8 +15,10 @@
   },
   "dependencies": {
     "co": "4.6.0",
-    "debug": "^2.2.0",
-    "graphql": "0.9.1"
+    "debug": "^2.2.0"
+  },
+  "peerDependencies": {
+    "graphql": "^0.7.1"
   },
   "devDependencies": {
     "mocha": "^2.3.4"

@@ -18,7 +18,7 @@
 ## Installation
 
 ```
-npm install graph.ql
+npm install graphql graph.ql
 ```
 
 ## Example
